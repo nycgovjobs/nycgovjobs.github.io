@@ -1,0 +1,33 @@
+
+h4.casestudy {
+	color: #e74c3c;
+}
+
+.bg-dark {
+  background-color: #2129b2 !important;
+}
+
+.sidebar .nav-link.active {
+  color: #2129b2;
+}
+
+a {
+  color: #2129b2;
+}
+
+.list-group-item.list-group-item-action.bg-light {
+	font-size: .875rem;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light.border-bottom {
+	background-color: #2129b2 !important;
+}
+
+.btn.btn-primary {
+	background-color: #2129b2 !important;
+	border-color: white;
+}
+
+.sidebar-heading {
+	background-color: #2129b2;
+}
